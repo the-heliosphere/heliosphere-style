@@ -4,9 +4,16 @@
 
 > # Welcome to Heliosphere-Style!
 > To create our style we gonna use:
+> # [Styled Components](https://styled-components.com/docs)
+> Utilising tagged template literals (a recent addition to JavaScript)
+> and the power of CSS, styled-components allows you
+> to write actual CSS code to style your components.
+> It also removes the mapping between components and
+> styles – using components as a low-level styling
+> construct could not be easier!
+>
 > # Default theme
 > ### Color Palette
-
 Palette      | Hex       | ![Color Picker Boxes](https://draculatheme.com/static/img/color-boxes/eyedropper.png)
 ---          | ---       | ---
 Primary      | `#0A84FF` | ![Primary Color](./public/images/primary.png)
@@ -15,7 +22,7 @@ Warning      | `#FFD60A` | ![Warning Color](./public/images/warning.png)
 Danger       | `#FF375F` | ![Danger Color](./public/images/danger.png)
 Text         | `#2C2C2E` | ![Black Color](./public/images/black.png)
 
-> # Dark theme
+> # Dracula theme
 > Based on [Dracula theme](https://draculatheme.com/).
 > All instructions can be found at [draculatheme.com](https://draculatheme.com/).
 > ### Color Palette
