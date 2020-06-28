@@ -3,7 +3,7 @@
 ![alt text](./public/images/heliospheric.jpg "Clean Architecture")
 
 > # Welcome to Heliosphere-Style!
-> To create our style we gonna use:
+> To create our style, we're going to use:
 > # [Styled Components](https://styled-components.com/docs)
 > Utilising tagged template literals (a recent addition to JavaScript)
 > and the power of CSS, styled-components allows you
